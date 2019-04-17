@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d99a6eb3d603b6e72a1a1f96b1570741\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a438607133d6da9966f3cd7989d52569\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f6402128d5c696bd60719600a5305b4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e83aadeb1ca8af6e9758a52e4f42dc71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\091fb6f9f9f883b87abcdba3499f2832\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ea419cb418f69e9aa5cbd1db80a4a2d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d477b91c7b42973471e99d853c08101a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86abfc218beb8892e3f094cb87f81e2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\034ab985d35d295a9056fb75e2219a09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ade146534c5ac571aea72251ba061cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8a44ff8fc97c26841ac9303d366396c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\6a27edf28b816aeef9650592f24fabcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\3ed6e844d9440a300ca6820ebd37d19e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\73b01e6ec468bb8b477eb9cece66124f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0ea4f84efd15347bdde4408bcc7283ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\93f8a0d8b0996ea4594a8ce49009bd61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\19215b6a61ab0b7db805cc6f20a2cfac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9bcdf7640786d151d63c93ebcef70ae6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e98f9e2e3ab192000b69bb9b09f75e95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5ec0158a9f047d7eace5b4c700b97015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b4007da2e8b2325a20f78a4774bc4bf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\41c06717f6fc46adc8343eda8f9375ba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f21f54406051a00c68a3d5c46a5749e0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7d07f7fae10b4a9f361f1c9c6f17d99f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e02b3431b2b822116913b6607bf6a61d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23c0c5a589d9b24c27cca990b1364592\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\568b4ea7d5cba1f3ee02afd6dc2e1325\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\62dd652875869204f8a1a212c709f2ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4ce1249028b3a01c7015dedc2609390a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eafa1385da0b79f52031468797f57792\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ad8df811a6b502de3673a9afe04d25d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\72b78f424da7dff54f02aa129e4b9971\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d13b4955e927a3e632b639ef1d985a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79ec9abe79615d37228ec08f46c162b6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d99a6eb3d603b6e72a1a1f96b1570741\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d99a6eb3d603b6e72a1a1f96b1570741\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f6402128d5c696bd60719600a5305b4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f6402128d5c696bd60719600a5305b4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\41c06717f6fc46adc8343eda8f9375ba\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\41c06717f6fc46adc8343eda8f9375ba\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f21f54406051a00c68a3d5c46a5749e0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f21f54406051a00c68a3d5c46a5749e0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\41c06717f6fc46adc8343eda8f9375ba\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ecommerce.MainActivity
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.ecommerce.signup
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:19:19-41
+activity#com.example.ecommerce.homepage
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:20:9-23:59
+	android:label
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:22:13-60
+	android:theme
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:21:13-37
+activity#com.example.ecommerce.search
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:24:19-41
+activity#com.example.ecommerce.mycard
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:25:19-41
+activity#com.example.ecommerce.forgetpassword
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.ecommerce.myOrders
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:27:9-46
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:27:19-43
+activity#com.example.ecommerce.GPS
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:28:9-41
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:28:19-38
+activity#com.example.ecommerce.makeOrder
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:29:9-47
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:29:19-44
+activity#com.example.ecommerce.updatequantity
+ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml:30:19-49
+uses-sdk
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d99a6eb3d603b6e72a1a1f96b1570741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d99a6eb3d603b6e72a1a1f96b1570741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a438607133d6da9966f3cd7989d52569\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a438607133d6da9966f3cd7989d52569\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f6402128d5c696bd60719600a5305b4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f6402128d5c696bd60719600a5305b4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e83aadeb1ca8af6e9758a52e4f42dc71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e83aadeb1ca8af6e9758a52e4f42dc71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\091fb6f9f9f883b87abcdba3499f2832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\091fb6f9f9f883b87abcdba3499f2832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ea419cb418f69e9aa5cbd1db80a4a2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ea419cb418f69e9aa5cbd1db80a4a2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d477b91c7b42973471e99d853c08101a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d477b91c7b42973471e99d853c08101a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86abfc218beb8892e3f094cb87f81e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86abfc218beb8892e3f094cb87f81e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\034ab985d35d295a9056fb75e2219a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\034ab985d35d295a9056fb75e2219a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ade146534c5ac571aea72251ba061cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ade146534c5ac571aea72251ba061cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8a44ff8fc97c26841ac9303d366396c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8a44ff8fc97c26841ac9303d366396c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\6a27edf28b816aeef9650592f24fabcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\6a27edf28b816aeef9650592f24fabcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\3ed6e844d9440a300ca6820ebd37d19e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\3ed6e844d9440a300ca6820ebd37d19e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\73b01e6ec468bb8b477eb9cece66124f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\73b01e6ec468bb8b477eb9cece66124f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0ea4f84efd15347bdde4408bcc7283ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0ea4f84efd15347bdde4408bcc7283ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\93f8a0d8b0996ea4594a8ce49009bd61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\93f8a0d8b0996ea4594a8ce49009bd61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\19215b6a61ab0b7db805cc6f20a2cfac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\19215b6a61ab0b7db805cc6f20a2cfac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9bcdf7640786d151d63c93ebcef70ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9bcdf7640786d151d63c93ebcef70ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e98f9e2e3ab192000b69bb9b09f75e95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e98f9e2e3ab192000b69bb9b09f75e95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5ec0158a9f047d7eace5b4c700b97015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5ec0158a9f047d7eace5b4c700b97015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b4007da2e8b2325a20f78a4774bc4bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b4007da2e8b2325a20f78a4774bc4bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\41c06717f6fc46adc8343eda8f9375ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\41c06717f6fc46adc8343eda8f9375ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f21f54406051a00c68a3d5c46a5749e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f21f54406051a00c68a3d5c46a5749e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7d07f7fae10b4a9f361f1c9c6f17d99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7d07f7fae10b4a9f361f1c9c6f17d99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e02b3431b2b822116913b6607bf6a61d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e02b3431b2b822116913b6607bf6a61d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23c0c5a589d9b24c27cca990b1364592\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23c0c5a589d9b24c27cca990b1364592\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\568b4ea7d5cba1f3ee02afd6dc2e1325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\568b4ea7d5cba1f3ee02afd6dc2e1325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\62dd652875869204f8a1a212c709f2ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\62dd652875869204f8a1a212c709f2ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4ce1249028b3a01c7015dedc2609390a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4ce1249028b3a01c7015dedc2609390a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eafa1385da0b79f52031468797f57792\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eafa1385da0b79f52031468797f57792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ad8df811a6b502de3673a9afe04d25d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ad8df811a6b502de3673a9afe04d25d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\72b78f424da7dff54f02aa129e4b9971\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\72b78f424da7dff54f02aa129e4b9971\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d13b4955e927a3e632b639ef1d985a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d13b4955e927a3e632b639ef1d985a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79ec9abe79615d37228ec08f46c162b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\aliez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79ec9abe79615d37228ec08f46c162b6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aliez\AndroidStudioProjects\ECommerce\app\src\main\AndroidManifest.xml
